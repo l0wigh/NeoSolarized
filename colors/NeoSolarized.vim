@@ -115,7 +115,7 @@
 
 " Font styles:
 let g:neosolarized_bold = get(g:, "neosolarized_bold", 1)
-let g:neosolarized_italic = get(g:, "neosolarized_italic", 0)
+let g:neosolarized_italic = get(g:, "neosolarized_italic", 1)
 let g:neosolarized_underline = get(g:, "neosolarized_underline", 1)
 
 " Appearance:
